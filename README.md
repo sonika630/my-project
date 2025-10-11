@@ -1,4 +1,4 @@
-# 🧠 Anup Joshi – Portfolio
+[calculator.py](https://github.com/user-attachments/files/22865029/calculator.py)# 🧠 Anup Joshi – Portfolio
 
 Hi! I'm **Anup Joshi**, a 16-year-old student from Nepal learning programming and web development.  
 This portfolio contains my beginner projects built while exploring Python and HTML/CSS.
@@ -12,8 +12,7 @@ A basic calculator app created in Python.
 It performs addition, subtraction, multiplication, and division using simple logic and input/output functions.
 
 📁 **Project Folder:**  
-[Click here to view the Calculator project](./calculator%20copy)
-
+[Click here to view the Calculator project]([
 ---
 
 ## 🌐 Web Projects
