@@ -1,4 +1,4 @@
-[calculator.py](https://github.com/user-attachments/files/22865029/calculator.py)# 🧠 Anup Joshi – Portfolio
+(https://github.com/user-attachments/files/22865029/calculator.py)# 🧠 Anup Joshi – Portfolio
 
 Hi! I'm **Anup Joshi**, a 16-year-old student from Nepal learning programming and web development.  
 This portfolio contains my beginner projects built while exploring Python and HTML/CSS.
